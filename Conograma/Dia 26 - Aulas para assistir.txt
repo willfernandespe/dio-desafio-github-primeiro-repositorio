@@ -1,0 +1,5 @@
+04h 00 - Mentoria 01: Carreira everis e Roadmap sobre principais certificações na área de trabalho.
+
+14h 00 - Instalando o Visual Studio e SDK
+
+15h 00 - Primeiros Passos com .NET
